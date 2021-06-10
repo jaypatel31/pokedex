@@ -1,0 +1,35 @@
+.detail-card-container{
+	background-color:#FFCB05;
+	display:flex;
+	flex-direction:column;
+	margin:15px;
+	justify-content:center;
+	align-items:center;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:6px;
+	box-shadow:0px 3px 12px rgba(0,0,0,0.4);
+}
+
+.gif-container img{
+	height: 120px;
+    width: 120px;
+    padding: 12px;
+}
+
+.info{
+	font-family:"Quando";
+	margin:15px 0px;
+	font-weight:bolder;
+	font-size:19px;
+}
+
+.welcome-container{
+	font-family:"Bangers", sans-serif;
+	font-size:24px;
+	letter-spacing:4px;
+	padding:16px;
+	color:#3D7DCA;
+	text-align:center;
+}

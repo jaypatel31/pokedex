@@ -1,0 +1,18 @@
+.searchbar-container{
+	display:flex;
+	margin:10px 0px;
+}
+
+.searchbar{
+	padding:10px;
+	font-size:18px;
+	outline:none;
+	border-radius:6px;
+	font-family:"Quando";
+
+	border:none;
+}
+
+.searchbar:focus{
+	box-shadow:0 3px 6px rgba(0,0,0,0.3);
+}
